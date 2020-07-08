@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lesson 6</string>
+    <string name="menu_goods">Товары</string>
+    <string name="menu_servises">Услуги</string>
+    <string name="menu_about">О приложении</string>
+    <string name="aboutapp">О приложении</string>
+    <string name="cosmetics_text">Косметика</string>
+    <string name="stationary_text">Канцтовары</string>
+    <string name="appliances_text">Бытовая техника</string>
+    <string name="goods_text">ТОВАРЫ</string>
+    <string name="services_text">УСЛУГИ</string>
+    <string name="beauty_text">Красота</string>
+    <string name="repair_text">Ремонт</string>
+    <string name="study_text">Учеба</string>
+</resources>
